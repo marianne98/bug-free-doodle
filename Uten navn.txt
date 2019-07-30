@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="no-BO">
+<body>
+
+
+<h1 title="Jeg er en overskrift"> Rubiks kube 3x3 </h1>
+
+<a href="https://olvemaudal.files.wordpress.com/2012/02/rubikscube_hanna_feb2012.pdf">Hjelpeside</a> 
+
+<br><br><br>
+
+
+<h1 style="color:blue"> Steg 1</h1>
+
+
+<p style="font-size:17px;">Kuben skal nå se sånn ut </p>
+
+
+<ol style="color:grey" >
+  <li>Hvit blomst med gult i midten</li>
+  <li>Finn riktig midtkloss</li>
+  <li>Hvitt kryss i bunnen</li>
+</ol>
+
+
+<h2 style="color:blue">Steg 2</h2>
+
+<p1>Kuben skal nå se slik ut</p1>
+
+<br> <br> 
+
+
+
+<p style="color:grey" > Gratulerer du er ferdig! </p>
+
+
+
+<h5> Del dine resultater </h5> 
+
+<ul>
+  <li><button> 1 </button></li>
+  <li><button> 2 </button></li>
+  <li><button> 3 </button></li>
+</ul>
+
+</body>
+</html>
+
